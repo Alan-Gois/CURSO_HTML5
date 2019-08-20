@@ -1,2 +1,4 @@
-# CURSO_HTML5
-Curso de HTLMA5 + CCS3 e JS - básico 
+    # CURSO_HTML5
+----
+Curso de HTML5 + CSS3 + JavaScript completamente gratuito. Aulas criadas pelo professor Gustavo Guanabara. 
+
